@@ -1,0 +1,37 @@
+{
+  "RIOT_LOL_TFT": {
+    "Title": "League of Legends",
+    "LauncherExe": "RiotClientServices.exe",
+    "TargetExe": "LeagueClient.exe",
+    "Platform": "Riot"
+  },
+  "RIOT_2XKO": {
+    "Title": "2XKO",
+    "LauncherExe": "RiotClientServices.exe",
+    "TargetExe": "2XKO.exe",
+    "Platform": "Riot"
+  },
+  "RIOT_LOR": {
+    "Title": "Legends of Runeterra",
+    "LauncherExe": "RiotClientServices.exe",
+    "TargetExe": "LoR.exe",
+    "Platform": "Riot"
+  },
+  "DOFUS_UNITY": {
+    "Title": "Dofus",
+    "LauncherExe": "Ankama Launcher.exe",
+    "TargetExe": "Dofus.exe",
+    "Platform": "Ankama"
+  },
+  "Zenless_Zone_Zero": {
+    "Title": "Zenless Zone Zero",
+    "LauncherExe": "HYP.exe",
+    "TargetExe": "ZenlessZoneZero.exe",
+    "Platform": "Hoyoverse"
+  },
+  "NOTEPAD_TEST": {
+    "Title": "Bloc de notas (test)",
+    "Platform": "Manual",
+    "Exe": "notepad.exe"
+  }
+}
