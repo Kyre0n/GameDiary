@@ -1,0 +1,1 @@
+Script en Powershell que detecta cuando abres un juego automaticamente y al cerrarlo te pide las notas de la sesión junto a una valoración y te lo guarda en una dirección especifica en un .md que me gusta abrir con el programa Obsidian.
