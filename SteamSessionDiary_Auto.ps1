@@ -973,7 +973,7 @@ while ($true) {
 
         $stars = "![estrellas](https://starrating-beta.vercel.app/$ratingClean/)"
 
-        Add-Content -Path $item.LogFile -Value " ---------- Played: $durF ---------- $endF`n$Notes`nRating: $stars ($ratingClean/5)`n"
+        Add-Content -Path $item.LogFile -Value " ------- Played: $durF ------- $endF`n$Notes`nRating: $stars ($ratingClean/5)`n"
     }
 
     $anyRunning = ($RunningGames.Values | Where-Object { $_ -eq $true } | Select-Object -First 1)

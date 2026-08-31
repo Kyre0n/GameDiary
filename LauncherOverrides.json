@@ -1,17 +1,17 @@
 {
-  "RIOT_LOL_TFT": {
+  "League of Legends": {
     "Title": "League of Legends",
     "LauncherExe": "RiotClientServices.exe",
     "TargetExe": "LeagueClient.exe",
     "Platform": "Riot"
   },
-  "RIOT_2XKO": {
+  "2XKO": {
     "Title": "2XKO",
     "LauncherExe": "RiotClientServices.exe",
     "TargetExe": "2XKO.exe",
     "Platform": "Riot"
   },
-  "RIOT_LOR": {
+  "Legends of Runeterra": {
     "Title": "Legends of Runeterra",
     "LauncherExe": "RiotClientServices.exe",
     "TargetExe": "LoR.exe",
@@ -29,9 +29,33 @@
     "TargetExe": "ZenlessZoneZero.exe",
     "Platform": "Hoyoverse"
   },
-  "NOTEPAD_TEST": {
-    "Title": "Bloc de notas (test)",
+  "World of Warcraft": {
+    "Title": "World of Warcraft",
+	"LauncherExe": "Battle.net.exe",
+	"TargetExe": "Wow.exe",
+    "Platform": "Battle.net"
+  },
+  "Hearthstone": {
+    "Title": "Hearthstone",
+	"LauncherExe": "Battle.net.exe",
+	"TargetExe": "Hearthstone.exe",
+    "Platform": "Battle.net"
+  },
+  "Starcraft": {
+    "Title": "Starcraft",
+	"LauncherExe": "Battle.net.exe",
+	"TargetExe": "Starcraft.exe",
+    "Platform": "Battle.net"
+  },
+  "Diablo III": {
+    "Title": "Diablo III",
+	"LauncherExe": "Battle.net.exe",
+	"TargetExe": "Diablo III64.exe",
+    "Platform": "Battle.net"
+  },
+  "Warhammer Online Return of Reckoning": {
+    "Title": "Warhammer Online Return of Reckoning",
     "Platform": "Manual",
-    "Exe": "notepad.exe"
+    "Exe": "WAR.exe"
   }
 }
